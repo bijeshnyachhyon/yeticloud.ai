@@ -1,4 +1,4 @@
-# DataHub GPU Cloud Landing Page
+# DataHub GPU Cloud Landing Page (YetiCloud.AI)
 
 Welcome to the **DataHub GPU Cloud** landing page project! This is a premium, high-performance, responsive single-page website designed for DataHub Nepal. It aims to showcase their enterprise-grade NVIDIA GPU offerings for AI builders, researchers, and production teams.
 
